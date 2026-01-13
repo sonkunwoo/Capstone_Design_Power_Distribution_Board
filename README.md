@@ -9,6 +9,7 @@
 - 모바일 로봇 구동 시 필요한 전원 구성을 모두 갖춘 스펙이 필요하였음
 - 모바일 로봇 구동 시 필요 시 스위칭 동작(E-STOP 및 부가 전원 버튼)이 필요하였음
 - 개별 로봇 상태를 표시하기 위한 LED 스트립 제어가 필요하였음
+@ 한양대 에리카 2025 캡스톤 프로젝트 일환으로 제작됨
 
 # **Features**
 
@@ -24,11 +25,9 @@
 
 **해당 이미지는  V1.4 버전 이므로 일부 기능에서 V1.5와 일부 차이있음**
 
-# Schematic
+# Used Robots (CUBO)
+<img width="916" height="458" alt="Image" src="https://github.com/user-attachments/assets/cf856a04-0a78-4b55-9c1f-02361ffdd7cb" />
 
-<img width="1861" height="1311" alt="Image" src="https://github.com/user-attachments/assets/5dd1fe91-8f03-4cfb-93ff-e7e3f8848867" />
-
-<img width="1865" height="1316" alt="Image" src="https://github.com/user-attachments/assets/0802a0b8-958f-435a-bf03-f172ba140eeb" />
 
 # **Dimension**
 
