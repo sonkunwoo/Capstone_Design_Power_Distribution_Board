@@ -1,6 +1,4 @@
-# Capstone_Design_Power_Distribution_Board
-
-# **Capstone Design Power Distribution Board V1.5**
+# Capstone Design Power Distribution Board V1.5
 
 <img width="2237" height="1213" alt="Image" src="https://github.com/user-attachments/assets/5c8b889d-2d29-4077-9593-f7ea004d6b8e" />
 
