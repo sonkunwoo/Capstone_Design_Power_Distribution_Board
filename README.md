@@ -16,10 +16,6 @@
 
 ---
 
-### 구성도
-
-<img width="1987" height="1066" alt="Image" src="https://github.com/user-attachments/assets/93cecaab-0145-4738-87c5-257d139dabbe" />
-
 ### 각 커넥터 기능
 
 <img width="1851" height="1080" alt="Image" src="https://github.com/user-attachments/assets/96b79e25-97b8-4b31-bfcd-0c3bd270fab0" />
